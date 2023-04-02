@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="./style.css"?>
+<contract>
+    <employee>
+        <name>Rowan</name>
+        <phone type="mobile">01280789865</phone>
+        <phone type="home">03587008</phone>
+        <email>rowan55@gmail.com</email>
+        <address>
+            <street>mahmoud abdel hamed</street>
+            <building-number>9</building-number>
+            <region>sidi bish</region>
+            <city>Alexandria</city>
+            <country>Egypt</country>
+        </address>
+    </employee>
+
+    <employee>
+        <name>shahd</name>
+        <phone type="mobile">01280789865</phone>
+        <phone type="home">03587008</phone>
+        <email>shahd@gmail.com</email>
+        <address>
+            <street>mahmoud abdel hamed</street>
+            <building-number>9</building-number>
+            <region>sidi bish</region>
+            <city>Alexandria</city>
+            <country>Egypt</country>
+        </address>
+    </employee>
+
+        <employee>
+        <name>ali</name>
+        <phone type="mobile">01280789865</phone>
+        <phone type="home">01280789865</phone>
+        <email>ali@gmail.com</email>
+       <address>
+            <street>mahmoud abdel hamed</street>
+            <building-number>9</building-number>
+            <region>sidi bish</region>
+            <city>Alexandria</city>
+            <country>Egypt</country>
+        </address>
+    </employee>
+</contract>

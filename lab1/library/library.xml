@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="library.css"?>
+<library>
+    <location>Alexandria</location>
+    <description>KPOP library</description>
+    <librarian>ROWAN</librarian>
+
+
+    <book title="AOT" ISBN="1">
+        <author>Exo</author>
+        <preface>exo is a group contains 9 members now </preface>
+        <part>
+            <title>we are one</title>
+            <chapter>
+                <title>His dormant soul</title>
+                <summary>every thing is black </summary>
+                <section>korean</section>
+            </chapter>
+
+            <chapter>
+                <title> A small, darkening universe.</title>
+                <summary>just change</summary>
+                <section>baekhyun</section>
+            </chapter>
+
+            <chapter>
+                <title>Dying elegantly is the most important</title>
+                <summary>diamond don't shatter, beautiful</summary>
+                <section>ayren</section>
+            </chapter>
+        </part>
+
+        <part>
+            <title>So he left</title>
+           <chapter>
+                <title>Dying elegantly is the most important</title>
+                <summary>diamond don't shatter, beautiful</summary>
+                <section>ayren</section>
+            </chapter>
+
+            <chapter>
+                <title>Empty choices and questions</title>
+                <summary>diamond don't shatter, beautiful</summary>
+                <section>ayren</section>
+            </chapter>
+
+            <chapter>
+                <title>Rumbling</title>
+                <summary> A light in the dark</summary>
+                <section>back</section>
+            </chapter>
+        </part>
+    </book>
+
+
+</library>
