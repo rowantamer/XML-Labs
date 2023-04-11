@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+<employees>
+	<employee>
+		<name>Rowan</name>
+		<email>rowan5@gmail.com</email>	
+		<phone>01280789865</phone>
+		<address>10 st mahmoud abdel hamed, sidi bishr, Alexandria, Egypt</address>
+	</employee>
+	<employee>
+		<name>Ali</name>
+		<email>Ali@gmail.com</email>	
+		<phone>01280789865</phone>
+		<address>10 st mahmoud abdel hamed, sidi bishr, Alexandria, Egypt</address>
+	</employee>
+	<employee>
+		<name>Shahd</name>
+		<email>Shahd@gmail.com</email>	
+		<phone>01280789865</phone>
+		<address>10 st mahmoud abdel hamed, sidi bishr, Alexandria, Egypt</address>
+	</employee>
+</employees>
