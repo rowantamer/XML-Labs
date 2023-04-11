@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="./employee.css" ?>
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///D:/ITI/ITI%20-%20Open%20Source%20Development/XML%20Fundamentals/Lab3/employees%20XSD%20Schema/employee.xsd">
+	<employee isbn="1">
+		<name>Rowan Tamer</name>
+		<phones>
+			<phone type="home">035287008</phone>
+		</phones>
+		<addresses>
+			<address>
+				<Street>10 st</Street>
+				<BuildingNumber>5</BuildingNumber>
+				<Region>Sidi bishr</Region>
+				<City>Alexandria</City>
+				<Country>Egypt</Country>
+			</address>
+		</addresses>
+		<email>rowan@gmail.com</email>
+	</employee>
+	<employee isbn="2">
+			<name>Shahd Tamer</name>
+		<phones>
+			<phone type="home">035288008</phone>
+		</phones>
+		<addresses>
+			<address>
+				<Street>110 st</Street>
+				<BuildingNumber>5</BuildingNumber>
+				<Region>Miami</Region>
+				<City>Alexandria</City>
+				<Country>Egypt</Country>
+			</address>
+		</addresses>
+		<email>shahd5@gmail.com</email>
+	</employee>
+	<employee isbn="3">
+		<name>Ali Tamer</name>
+		<phones>
+			<phone type="home">035287009</phone>
+		</phones>
+		<addresses>
+			<address>
+				<Street>209 st</Street>
+				<BuildingNumber>5</BuildingNumber>
+				<Region>El haram</Region>
+				<City>Cairo</City>
+				<Country>Egypt</Country>
+			</address>
+		</addresses>
+		<email>ali@gmail.com</email>
+	</employee>
+</employees>

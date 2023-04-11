@@ -1,0 +1,30 @@
+
+employees{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+    height: 100vh;
+    font-size: medium;
+}
+employee{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:25%;
+    margin-bottom:1%;
+    padding: 1%;
+    border: solid thin lightpink;
+    border-radius: 10px;
+    font-family: monospace;
+    font-weight: bold;
+    gap:1.5rem;
+}
+name{
+    font-weight: bold;
+    font-size: x-large;
+    color: rgb(143, 60, 119);
+    padding:1%;
+}
